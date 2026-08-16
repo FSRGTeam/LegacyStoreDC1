@@ -1,0 +1,22 @@
+{
+  "arch": [
+    "iphoneos-arm"
+  ],
+  "author": "TEST",
+  "bundleId": "com.vlesscore.app",
+  "by": "TEST",
+  "desc": "Взлом жопы РКНа",
+  "genre": "Social Networking",
+  "icon": "icons/com.vlesscore.app.png",
+  "issue": 4,
+  "kind": "deb",
+  "minOS": 60000,
+  "note": "",
+  "quote": "Натянем яйца ркну на лицо",
+  "sha256": "e572be4bcfd8dbb1784d9ed4c3f950971ac98593b1195e8ba8c8508529d2151a",
+  "shots": [],
+  "size": 5479444,
+  "title": "vless-core",
+  "url": "files/com.vlesscore.app-0.4.4-1.deb",
+  "version": "0.4.4-1"
+}
