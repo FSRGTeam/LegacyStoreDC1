@@ -10,7 +10,7 @@
   "icon": "icons/com.example.LegacyGram.png",
   "issue": 2,
   "minOS": 60000,
-  "note": "",
+  "note": "Наш пиздюк",
   "quote": "Telegram для iOS 6 с обходом блокировок внутри: WARP поднимается самим приложением, отдельный VPN не нужен.",
   "sha256": "ce02df5c6289722a2a51578d890928d6c3fc6f727ed562714580791c4cc510e7",
   "shots": [],
