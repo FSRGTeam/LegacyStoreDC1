@@ -1,0 +1,22 @@
+{
+  "arch": [
+    "armv7"
+  ],
+  "author": "TESTv2",
+  "bundleId": "ru.computershik.trubach",
+  "by": "GosDOOM",
+  "desc": "",
+  "genre": "Social Networking",
+  "icon": "icons/ru.computershik.trubach.png",
+  "issue": 0,
+  "kind": "ipa",
+  "minOS": 50100,
+  "note": "",
+  "quote": "Лучшая пиратская платформа в РФ",
+  "sha256": "db265a073d5881c4160f9717cf3b7dfdb596e643c6842982893a16858cc3a394",
+  "shots": [],
+  "size": 665537,
+  "title": "Трубач",
+  "url": "files/ru.computershik.trubach-1.1.ipa",
+  "version": "1.1"
+}
