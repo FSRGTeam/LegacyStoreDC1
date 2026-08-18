@@ -14,7 +14,9 @@
   "note": "",
   "quote": "Взлом Пента... РКН",
   "sha256": "31337b1ad160468744091ead24bf857c8e4aec17ad83cb7f9f6844a363afcbf1",
-  "shots": [],
+  "shots": [
+    "shots/com.senko.daemon/1.jpg"
+  ],
   "size": 8076568,
   "title": "Senko",
   "url": "files/com.senko.daemon-1.0.6-stable.deb",
