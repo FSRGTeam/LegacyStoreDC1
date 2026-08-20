@@ -1,0 +1,22 @@
+{
+    "bundleId": "com.zeptolab.candyflick",
+    "title": "Candy Flick",
+    "version": "2.5",
+    "minOS": 60000,
+    "arch": [
+        "armv7"
+    ],
+    "size": 61501491,
+    "sha256": "d0955ff28795736145e84189f84193f3452468a96307400f4a5fe1476935a6cd",
+    "url": "files/com.zeptolab.candyflick-2.5.ipa",
+    "icon": "icons/com.zeptolab.candyflick.png",
+    "genre": "Games",
+    "author": "@PENISES",
+    "developer": "@PENISES",
+    "shots": [],
+    "quote": "",
+    "by": "@PENISES",
+    "desc": "",
+    "issue": 3,
+    "note": "одобрил @QWERTYU1OPZ 2026-08-20"
+}
