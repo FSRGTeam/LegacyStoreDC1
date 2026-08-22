@@ -1,22 +1,22 @@
 {
-    "bundleId": "ru.computershik.scam",
-    "title": "Скам",
-    "version": "1.0",
-    "minOS": 60000,
-    "arch": [
-        "armv7"
-    ],
-    "size": 606656,
-    "sha256": "19f36f7a20062a9241da1a20caecc5943d519ee813daa54618ee98b955fc4be7",
-    "url": "files/ru.computershik.scam-1.0.ipa",
-    "icon": "",
-    "genre": "Utilities",
-    "author": "@PENISES",
-    "developer": "@PENISES",
-    "shots": [],
-    "quote": "",
-    "by": "@PENISES",
-    "desc": "",
-    "issue": 2,
-    "note": "одобрил @QWERTYU1OPZ 2026-08-20"
+  "bundleId": "ru.computershik.scam",
+  "title": "Скам",
+  "version": "1.0",
+  "minOS": 60000,
+  "arch": [
+    "armv7"
+  ],
+  "size": 606656,
+  "sha256": "19f36f7a20062a9241da1a20caecc5943d519ee813daa54618ee98b955fc4be7",
+  "url": "files/ru.computershik.scam-1.0.ipa",
+  "icon": "icons/ru.computershik.scam-b633ead6.png",
+  "genre": "Utilities",
+  "author": "@PENISES",
+  "developer": "@PENISES",
+  "shots": [],
+  "quote": "",
+  "by": "@PENISES",
+  "desc": "",
+  "issue": 2,
+  "note": "одобрил @QWERTYU1OPZ 2026-08-20"
 }
