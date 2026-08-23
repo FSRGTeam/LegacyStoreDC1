@@ -1,0 +1,29 @@
+{
+    "bundleId": "ru.example.dodopizzaclient",
+    "title": "Додо Пицца",
+    "version": "1.0",
+    "minOS": 60000,
+    "arch": [
+        "armv7",
+        "armv7s"
+    ],
+    "size": 636879,
+    "sha256": "af3b9453449dc3d75675352e3763aea9ae561e46acc2f7886a11fe6e9dade209",
+    "url": "files/ru.example.dodopizzaclient-1.0.ipa",
+    "icon": "icons/ru.example.dodopizzaclient.png",
+    "genre": "Productivity",
+    "author": "@nbnbnbnbn",
+    "developer": "@nbnbnbnbn",
+    "shots": [
+        "shots/ru.example.dodopizzaclient/1.jpg",
+        "shots/ru.example.dodopizzaclient/2.jpg",
+        "shots/ru.example.dodopizzaclient/3.jpg",
+        "shots/ru.example.dodopizzaclient/4.jpg",
+        "shots/ru.example.dodopizzaclient/5.jpg"
+    ],
+    "quote": "",
+    "by": "@nbnbnbnbn",
+    "desc": "Додо Пицца - клиент на 6 iOS!\r\nЯ не знаю что написать, но хочу сказать то что я сделал так же версию и в iPA",
+    "issue": 4,
+    "note": "одобрил @QWERTYU1OPZ 2026-08-23"
+}
